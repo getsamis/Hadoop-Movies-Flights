@@ -5,5 +5,5 @@
 - Ratings for each movie 
 - Sorting the popular movies
 
-## DataExpo2009 dataset, 1988.csv
+## DataExpo2009 dataset
 - Number of flights for each carrier
