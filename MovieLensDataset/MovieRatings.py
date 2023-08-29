@@ -2,10 +2,6 @@ from mrjob.job import MRJob
 from mrjob.step import MRStep
 
 class MovieRatings(MRJob):
-    # Uncomment and use the ratings_file variable
-    #to specify the path to the input file if needed
-
-    #ratings_file = 'ratings.dat'
 
     def steps(self):
         return [
